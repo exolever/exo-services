@@ -9,6 +9,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'health_check',
     'rest_framework',
+    'django_celery_results',
     'drf_yasg',
     'mjml',
     'mailer',

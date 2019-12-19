@@ -140,8 +140,8 @@ FAKER_SETTINGS_LOCALE = 'en_GB'
 EXOMAILER_LOCATION_DIR = 'production' if IS_PRODUCTION else SOURCE_NAME
 EXOMAILER_STORAGE = 'storages.backends.s3boto.S3BotoStorage'
 EXOMAILER_STORAGE_OPTIONS = {
-    'access_key': os.environ.get('AWS_KEY', ''),
-    'secret_key': os.environ.get('AWS_SECRET', ''),
+    'access_key': os.environ.get('AWS_KEY'),
+    'secret_key': os.environ.get('AWS_SECRET'),
     'bucket_name': MAILER_AWS_BUCKET,
     'location': 'bundles/service-exo-mail/{}/'.format(EXOMAILER_LOCATION_DIR)
 }
