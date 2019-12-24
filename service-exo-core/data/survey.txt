@@ -1,0 +1,125 @@
+Human Resources and Asset Management
+1. To what extent do you use full time employees vs. on demand contractors? *This question is required.
+We only use full time employees
+We use mostly full-time employees with some on-demand contractors in non-mission critical areas (e.g. IT, event production, etc.)
+We use some on-demand contractors to augment mission critical areas (e.g. operations, production, HR, etc.)
+We mostly use on-demand contractors in addition to a small full-time core team
+2. To what extent do you leverage external resources to perform business functions? *This question is required.
+Most business functions are handled by internal employees
+We outsource some administrative and support functions (e.g. AP, AR, help desk, facilities, etc)
+We outsource some mission critical functions (e.g. Apple & Foxconn)
+We emphasize agility - even mission critical functions are outsourced as variable costs rather than fixed costs
+3. To what extent do you own vs. rent the assets in your organization? *This question is required.
+We own all assets except peripheral equipment (e.g. copiers)
+We access some key equipment/services on demand (e.g. cloud computing)
+We use on-demand assets in multiple business functions (e.g. Hackerspaces or shared offices vs. leasing or buying office space; Using Netjet vs. buying a jet)
+We use on-demand assets even in mission critical areas (e.g. Apple & Foxconn)
+---
+Community & Crowd
+4. To what extent do you manage and interact with your Community (users, customers, partners, fans)? *This question is required.
+We have very passive involvement with our community (i.e. we use some social media)
+We leverage our community for market research and other listening activities
+We actively use the community for outreach, support and marketing
+The community heavily influences our organization (e.g. product ideas, product development)
+5. How do you engage your Community? *This question is required.
+No engagement beyond standard customer service (e.g. traditional CRM)
+Our community is centralized and communication is “one to many” (e.g. TED.com, Apple)
+Our community is decentralized and communication is “many to many” but passive & single purpose (e.g. LinkedIn, Facebook)
+Our community is decentralized, communication is “many to many” and drives peer-to-peer value creation (e.g. DIY Drones, GitHub, Wikipedia)
+---
+Engagement of Community & Crowd
+6. Do you actively convert “the Crowd” (general public) into Community members? *This question is required.
+We use standard techniques like PR to increase awareness
+We leverage social media for marketing purposes
+We use gamification and incentive competitions to turn crowd into community
+Our products and services are inherently designed to convert crowd into Community (e.g. shareable memes like the Lyft mustache or Hotmail signature)
+7. To what extent do you use Gamification or Incentive Competitions? *This question is required.
+We use gamification/incentive competitions for internal motivation only (e.g. Salesperson of the month)
+We use basic gamification externally (e.g. loyalty programs, frequent flyer programs)
+We build gamification/incentive competitions into our products and services (e.g. Foursquare)
+We use gamification/incentive competitions to drive ideation and product development (e.g. Quirky, Kaggle)
+---
+Information & Social Enablement
+8. To what extent are your products/services information based? *This question is required.
+Our product/services are physical in nature (e.g. Starbucks, Levi's or most traditional retailers)
+Our products/services are physical, but their delivery and/or production is information-based (e.g. Amazon)
+Our products/services are physical, but services are information based and revenue generating (e.g. iPhone/App store)
+Our products/services are entirely information-based (e.g. LinkedIn, Facebook, Spotify, Netflix)
+9. To what extent is Social functionality and collaboration a central element of your product/service offering? *This question is required.
+No social/collaborative aspect is designed into our products/services (e.g. buying a lawnmower)
+We have bolted social/collaborative structures onto existing products/services (e.g products have a Facebook page or Twitter feed)
+Social/collaborative functionality is used to enhance or deliver product/service offerings (e.g. 99Designs, Indiegogo, Taskrabbit)
+Social/collaborative inputs actually build our products/services offering (e.g. Yelp, Waze, Foursquare)
+---
+Data & Algorithms
+10. To what extent do you use algorithms and machine learning to make meaningful decisions? *This question is required.
+We don't do any meaningful data analysis
+We collect and analyze data mostly via reporting systems
+We use Machine Learning algorithms to analyze data and drive actionable decisions
+Our products and services are built around algorithms and machine learning (e.g. PageRank)
+11. Do you share strategic data assets internally across the company or expose them externally to your community? *This question is required.
+We don't share data, even between departments
+We have data shared between departments (i.e. use internal dashboards, activity streams and wiki pages)
+We expose some data to key suppliers (e.g. EDI interfaces or via APIs)
+We expose some data to our external ecosystem via open APIs (e.g. Flickr, Google, Twitter, Ford)
+---
+Interfaces and Scalable Processes
+12. Do you have specialized processes for managing the output of externalities within your internal organization? [i.e by externalities, we mean Staff on Demand, Community/Crowd, Algorithms, Leased Assets and Engagement] *This question is required.
+We don't leverage externalities or we have no special processes to capture or manage externalities
+We have dedicated staff to manage externalities (e.g. X Prize creates one-off prizes, TEDx applications handled manually)
+We have automated processing of one externality (e.g. Elance or DonorsChoose)
+We have automated processing of several externalities (Indiegogo, Github, Uber, Kaggle, Wikipedia)
+13. How replicable and scalable are key processes outside your core organization? *This question is required.
+We have traditional, mostly manual processes (usually confined by SOP - Standard Operating Procedure)
+Some of our processes are scalable and repeatable, but only inside the organization
+Some of our processes operate outside the organization (e.g. TEDx events, XPRIZE or franchise structures)
+Most core processes are self-provisioning and executed outside the organization via a scalable platform (e.g. AirBnB or Adsense)
+---
+Real time Dashboards and Employee Management
+14. Which metrics do you track about your organization and your product innovation portfolio ? (e.g. Lean Startup Analytics?) *This question is required.
+We only track traditional KPIs monthly/quarterly/annually (e.g. sales, costs, profits)
+We collect some real-time, traditional metrics from transactional systems (e.g. ERP)
+We collect all real-time, traditional metrics and use some Lean Startup metrics
+We collect real-time traditional metrics and Lean Startup (value and learning) metrics like repeat usage, monetization, referral and NPS
+15. Do you use some variant of Objectives and Key Results (OKRs) to track individual/team performance? *This question is required.
+No, we use traditional quarterly/annual performance reviews or 360 reviews or stack ranking
+We have implemented OKRs in innovation areas or at the edges of the organization
+OKRs are used across our organization (e.g. LinkedIn)
+OKRs are used across our organization with full transparency (e.g. Google - everyone can view each others' performance)
+---
+Experimentation & Risk
+16. Does your organization constantly optimize processes through experimentation, A/B testing and short feedback loops? (e.g. Lean Startup methodology) *This question is required.
+No, we use traditional business process management (BPM)
+We use the Lean approach (or similar) for customer facing areas like marketing
+We use the Lean approach for product innovation and product development
+We use the Lean approach for all core functions (innovation, marketing, sales, service, HR, even legal!)
+17. To what extent do you tolerate failure and encourage risk-taking? *This question is required.
+Failure is not an option (NASA) and is a Career Limiting Move (CLM)
+Failure and Risk are encouraged, but in name only and not tracked or quantified
+Failure and risk-taking are allowed and measured, but sandboxed in Skunkworks or very defined boundaries (e.g. Lockheed skunkworks)
+Failure and risk-taking are expected, pervasive, measured and even celebrated across the organization (e.g. Amazon, Google, P&G Heroic Failure Award)
+---
+Autonomy & Decentralization
+18. Does your organization operate with large, hierarchical structures or small, multi-disciplinary, self-organizing teams? *This question is required.
+We have a traditional corporate hierarchy with large, specialized groups operating in silos
+We have some small, multi-disciplinary teams operating at the edges, away from the core
+We have some small, multi-disciplinary teams accepted and embraced within the core organization
+Small, multi-disciplinary, networked, self-organizing teams are the primary operating structure across the organization (e.g. Valve)
+19. To what extent is authority/decision making decentralized? *This question is required.
+Our organization uses traditional, top-down command & control
+Decentralized decision-making happens in R&D, innovation and product development
+Decentralized decision-making happens in all customer-facing areas like marketing, sales, etc (e.g. Zappos)
+All key decisions are decentralized (except purpose, culture and vision, e.g. Valve)
+---
+Social Technologies & Social Business
+20. Do you use advanced social tools for knowledge-sharing, communication, coordination and/or collaboration (e.g. Google Drive, Asana, RedBooth, Dropbox, Yammer, Chatter, Evernote)? *This question is required.
+No, email is our primary communication vehicle
+Some teams use social tools, but not across the organization
+Most business units use social tools (and some external vendors/partners, though often unauthorized)
+Use of social tools is mandated across the organization as policy
+21. What is the nature and focus of your organizational purpose or mission? *This question is required.
+Our Mission focuses on delivering the best products and services
+Our Mission focuses on our core values as an organization, extending beyond delivering products and services
+Our Mission is broader than serving end customers; it aims to bring positive change to our entire ecosystem of vendors, partners, suppliers and employees
+We have a transformational purpose that goes beyond a Mission Statement. We aspire to deliver significance to the whole world
+---

@@ -41,7 +41,7 @@ exo-frontend_old
 htmlcov/*
 .sonar
 sonar-project.*
-/data/
+
 .env
 gunicorn-script.sh
 
