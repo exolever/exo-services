@@ -71,14 +71,8 @@ INSTALLED_APPS = []
 # Stripe
 # ##
 
-STRIPE_PUBLIC_KEY = os.environ.get('STRIPE_PUBLIC_KEY', 'at(t8u!3qiq8s*6eufc@i@(g^hknvzs$@3#1ka)9rxt8e4r9f2')
-STRIPE_SECRET_KEY = os.environ.get('STRIPE_SECRET_KEY', '&&g&ctwe4@4eq#v)1q*99(&06*3kc1+%f(s@*42l(ozukzfaef')
-
-try:
-    assert STRIPE_SECRET_KEY
-    assert STRIPE_PUBLIC_KEY
-except AssertionError:
-    raise Exception('Please provide Stripe API keys')
+STRIPE_PUBLIC_KEY = os.environ.get('STRIPE_PUBLIC_KEY')
+STRIPE_SECRET_KEY = os.environ.get('STRIPE_SECRET_KEY')
 
 EMAIL_NOTIFICATIONS_FROM = 'finance@openexo.com'
 

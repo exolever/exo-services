@@ -33,8 +33,7 @@ TEST_MODE = sys.argv[1:2] == ['test'] or 'py.test' in sys.argv[0]
 if len(sys.argv) > 1 and sys.argv[1] == 'test':
     logging.disable(logging.CRITICAL)
 
-# SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = os.environ.get('SECRET_KEY', '(@ld*aiy5419but+akxofqmng1_p8c(57w1772hnoe58ydui^7')
+SECRET_KEY = os.environ.get('SECRET_KEY', '6vj06c)fc=!9ot%7t6^r2v^=$5x-j*6*#kk))cg0e!9zcyp(y+')
 
 INSTALLED_APPS = APPS
 

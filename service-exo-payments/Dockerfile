@@ -64,9 +64,6 @@ RUN pip3 freeze
 # Copying rest of files
 COPY . .
 
-
-
-
 # Running basic check of django
 RUN python3 manage.py check
 

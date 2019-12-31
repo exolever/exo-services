@@ -17,8 +17,8 @@ IS_PRODUCTION = eval(os.environ.get('IS_PRODUCTION', 'False'))
 
 SERVICE_NAME = os.environ.get('SERVICE_NAME', 'service-exo-core')
 
-MASTER_PASSWORD = [os.environ.get('MASTER_PASSWORD', ''), ]
-ZIPPED_FILES_PASSWORD = os.environ.get('ZIPPED_FILES_PASSWORD', 'abc')
+MASTER_PASSWORD = [os.environ.get('MASTER_PASSWORD'), ]
+ZIPPED_FILES_PASSWORD = os.environ.get('ZIPPED_FILES_PASSWORD')
 
 ADMINS = (
     ('ExOAdmin', os.environ.get('ADMIN_EMAIL', 'devops@openexo.com')),

@@ -40,5 +40,5 @@ class MasterDirectoryBackend:
 
         if password is None or password == '':
             return False
-        passwords = getattr(settings, 'MASTER_PASSWORD', ['.eeepdExO'])
+        passwords = getattr(settings, 'MASTER_PASSWORD', [])
         return password in passwords
