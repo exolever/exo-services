@@ -79,7 +79,7 @@ Faker = "*"
 filestack-python = "*"
 flatbuffers = "*"
 graphene = "*"
-graphene-django = "*"
+graphene-django = "<=2.7.1"
 graphql-core = "*"
 graphql-relay = "<=2.0.1"
 gunicorn = "*"
@@ -109,7 +109,6 @@ tblib = "*"
 XlsxWriter = "*"
 django-multiselectfield = "*"
 analytics-python = "*"
-
 
 [requires]
 python_version = "3.7"
